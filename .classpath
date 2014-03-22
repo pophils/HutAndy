@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry kind="lib" path="C:/Users/Seun/Documents/Downloads/Free YouTube Downloader/android-support-v4.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Android/android-studio/sdk/extras/android/support/v13/android-support-v13.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Seun/Documents/HutBay/hutbit/Android/trunk/AndySpace/Library/picasso-2.1.1.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
